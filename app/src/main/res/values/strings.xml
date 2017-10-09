@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonExample</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
